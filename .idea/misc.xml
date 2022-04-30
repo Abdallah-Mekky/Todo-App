@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/drawable-anydpi/ic_delete.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/drawable-night/rounded_line.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/drawable/rounded_Delete.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/drawable/rounded_add_task.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/drawable/rounded_line.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/drawable/rounded_mark_as_done.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/layout/activity_update.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/layout/bottom_sheet.xml" value="0.18" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/layout/content_update.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/layout/dark_text_input_item_settings.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/layout/list_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/layout/list_item_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/layout/settings_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/layout/swipe.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/layout/swipe_to_delete.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/layout/task_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/Todo/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

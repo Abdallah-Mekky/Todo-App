@@ -1,0 +1,13 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textViewDropDownItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="14dp"
+    android:text="Light"
+    android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle1"
+    android:textColor="@color/colorPrimaryVariant"
+    android:textSize="20sp"
+    android:textStyle="normal"
+
+    />
+

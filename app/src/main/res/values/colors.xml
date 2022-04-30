@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#194071</color>
+    <color name="colorPrimaryVariant">#5D9CEC</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="tarnsparent">#FDFDFD</color>
+    <color name="colorOfView">#61E757</color>
+
+    <color name="bottomNaviationViewColor">#FFFFFF</color>
+
+    <color name="calender_View_Color">#5D9CEC</color>
+
+    <color name="mainColor">#DFECDB</color>
+
+    <color name="task_Item_Color">#FFFFFF</color>
+
+    <color name="text_In_task_Item_Color">#363636</color>
+
+    <color name="delte_Color">#EC4B4B</color>
+
+    <color name="add_New_Task_Color">#FF000000</color>
+
+    <color name="mainColor_Bottom_Sheet">#FFFFFFFF</color>
+
+    <color name="calendarViewColor">#386197</color>
+
+    <color name="addTaskColor">#5D9CEC</color>
+
+
+
+
+
+
+
+
+</resources>
