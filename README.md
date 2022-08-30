@@ -1,5 +1,7 @@
 # Todo App
 
+Please ⭐️ this repo and share it with others.
+
 # Description
 This project is an application for time management it contains some basic features such as adding tasks with 
 dates, deleting tasks, and updating tasks, and as well as it contains two modes like light mode and dark mode.
